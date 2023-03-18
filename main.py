@@ -9,7 +9,7 @@ data = data = {
     "embeds": [
         {
             "title": "Juste imagine",
-            "description": f"**vous vous êtes fait raid par `{__config__['auteur']}`",
+            "description": f"**vous vous êtes fait raid par `{__config__['auteur']}`**",
             "color": 0,
             "image": {
                 "url": "https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif"
