@@ -4,7 +4,7 @@ import time
 
 __config__ = json.load(open('config.json', 'r'))
 
-data = data = {
+data = {
     "content": f"|| @everyone || || {__config__['lien']} ||",
     "embeds": [
         {
