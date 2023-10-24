@@ -28,6 +28,12 @@ Une fois que vous avez configuré les paramètres dans le fichier `config.json`,
 
 Le programme envoie des messages en boucle à tous les webhooks Discord configurés dans config.json. Les messages contiennent un lien vers le site Web spécifié et une image animée. Les messages sont envoyés toutes les 3 secondes.
 
+### Remarque
+
+- Ce script est conçu à des fins éducatives uniquement et ne doit pas être utilisé pour nuire à autrui ou violer les conditions d'utilisation de Discord.
+- L'utilisation de ce script pour effectuer un raid sur un serveur sans l'autorisation du propriétaire du serveur est illégale.
+- L'auteur de ce script n'est pas responsable des dommages ou des problèmes juridiques pouvant résulter de l'utilisation de ce script.
+  
 ### Licence
 
 Ce programme est sous licence MIT. Veuillez consulter le fichier `LICENSE` pour plus d'informations.
