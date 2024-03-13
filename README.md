@@ -1,7 +1,7 @@
 # Programme Python : Readme
 
-SOON
+### SOON
   
-### Licence
+## Licence
 
 Ce programme est sous licence MIT. Veuillez consulter le fichier `LICENSE` pour plus d'informations.
